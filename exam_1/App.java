@@ -5,7 +5,7 @@ public class App {
 
         me.surname ="Saligan";
         me.firstName = "Jasmine";
-        me.middleInitial = "A";
+        me.middleInitial = 'A';
         me.dateOfBirth = 03/21/03;
         me.studentNumber = 2022100068;
         me.studentEmailAddress = "saliganja@students.national-u.edu.ph";
