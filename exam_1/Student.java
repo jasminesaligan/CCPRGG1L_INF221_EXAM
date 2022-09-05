@@ -1,7 +1,7 @@
 public class Student {
     String surname;
     String firstName;
-    String middleInitial;
+    char middleInitial;
     int dateOfBirth;
     int studentNumber;
     String studentEmailAddress;
